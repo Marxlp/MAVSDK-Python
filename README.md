@@ -9,7 +9,7 @@ The Python wrapper is based on a gRPC client communicating with the gRPC server 
 - Python 3.6+ is required (because the wrapper is based on [asyncio](https://docs.python.org/3.7/library/asyncio.html)).
 - You may need to run `pip3` instead of `pip` and `python3` instead of `python`, depending of your system defaults.
 
-## Install using pip from PyPy
+## Install using pip from PyPi
 
 To install mavsdk-python, simply run:
 
